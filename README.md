@@ -7,9 +7,18 @@ A delightful interactive dashboard that lets you explore the rich and diverse wo
 ![image](image.png)
 
 - **Ingredient Explorer** - Create Venn diagrams to discover common ingredients between up to three dishes
-- **Scatter Analysis** - Visualize relationships between cooking time, preparation time, and other attributes. Look up individual dishes that display interesting relationships.
+- **Scatter Analysis** - Visualize relationships between cooking time, preparation time, and other attributes
 - **Category Heatmap** - Explore connections between different food categories
 - **Sankey Diagrams** - See the flow relationships between various food attributes
+
+## 🛠️ Setup
+
+1. Clone this repository
+2. Create and activate the conda environment using the provided requirements file:
+```bash
+conda env create -f requirements.yml
+conda activate ds3500
+```
 
 ## 🛠️ Technical Stack
 
@@ -18,11 +27,3 @@ A delightful interactive dashboard that lets you explore the rich and diverse wo
 - **Matplotlib** - For Venn diagrams
 - **Pandas** - For data manipulation
 
-## 🚀 Getting Started
-
-1. Install the required dependencies:
-```bash
-pip install panel plotly matplotlib pandas
-```
-```plaintext
-Indian Food Dashboard

@@ -1,0 +1,14 @@
+name: ds3500
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - matplotlib-venn
+  - panel
+  - plotly
+  - pip
+  - pip:
+    - jupyter
