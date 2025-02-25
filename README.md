@@ -4,7 +4,7 @@ A delightful interactive dashboard that lets you explore the rich and diverse wo
 
 ## ✨ Features
 
-image.png
+![image](image.png)
 
 - **Ingredient Explorer** - Create Venn diagrams to discover common ingredients between up to three dishes
 - **Scatter Analysis** - Visualize relationships between cooking time, preparation time, and other attributes. Look up individual dishes that display interesting relationships.
