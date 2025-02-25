@@ -15,6 +15,7 @@ A delightful interactive dashboard that lets you explore the rich and diverse wo
 
 1. Clone this repository
 2. Create and activate the conda environment using the provided requirements file:
+3. Run foodexplorer.py
 ```bash
 conda env create -f requirements.yml
 conda activate ds3500
