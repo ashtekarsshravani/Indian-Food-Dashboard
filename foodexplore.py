@@ -6,7 +6,7 @@ pn.extension()
 
 # Initialize the food api
 api = f()
-api.load_food('HW 3/indian_food.csv')
+api.load_food('indian_food.csv')
 
 # WIDGET DECLARATIONS
 
