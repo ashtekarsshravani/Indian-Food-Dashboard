@@ -2,7 +2,7 @@ import panel as pn
 from foodapi import FOODAPI as f
 import plots as pl
 import matplotlib.pyplot as plt
-pn.extension()
+pn.extension('plotly')
 
 # Initialize the food api
 api = f()
