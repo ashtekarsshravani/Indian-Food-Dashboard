@@ -2,6 +2,8 @@
 
 A delightful interactive dashboard that lets you explore the rich and diverse world of Indian cuisine! Built with Panel and Python, this tool helps you discover interesting patterns and relationships in Indian food data.
 
+Pav Bhaji is the best indian food and shravani loves it 
+
 ## ✨ Features
 
 ![image](image.png)
